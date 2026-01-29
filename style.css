@@ -85,3 +85,8 @@ header h1{
     text-align: center;
 
 }
+
+#diagramText{
+    display: flex;
+    vertical-align: top;
+}
